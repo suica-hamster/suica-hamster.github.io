@@ -16,17 +16,17 @@ hr {
  .mainHeader {
  	// background-image: url(https://scontent.xx.fbcdn.net/hphotos-prn2/t31.0-8/1072695_684291068263136_230293664_o.jpg);
  	@include linearGradient($brand-color, $second-color);
- 	height: 220px;
+ 	height: 200px;
  	background-size: cover;
  	width: 100%;
  }
 .page-heading {
-    font-size: 3.6em;
+    font-size: 3.2em;
     padding-top: 50px;
     color: white;
 }
 .subhead {
-    font-size: 1.4em;
+    font-size: 1.3em;
     color: darken(white, 00%);
 }
 
@@ -56,8 +56,8 @@ hr {
     // right: 30px;
 }
 .site-nav .page-link {
-    color: $brand-color;
-    font-size: 1.6em;
+    color: #333;
+    font-size: 1.4em;
     line-height: inherit;
     :hover {
     	color: $brand-color;
