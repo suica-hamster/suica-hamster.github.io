@@ -1,0 +1,12 @@
+# Site settings
+title: SUICA & HAMSTER
+email: zhong@race.t.u-tokyo.ac.jp
+description: "A place where I record the lovely days with didi girl :)"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.myname.com" # the base hostname & protocol for your site
+twitter_username:
+instagram_username: zhongzhihang1028
+github_username:  suica-hamster
+
+# Build settings
+markdown: kramdown
