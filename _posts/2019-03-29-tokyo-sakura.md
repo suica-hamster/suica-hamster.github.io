@@ -3,9 +3,10 @@ layout: post
 title:  "Sakura Matsuri of Tokyo"
 date:   2019-03-29
 categories: record
+foreword: 桜が咲く季節になった時、君に出会えて本当によかった 🌸
 ---
 
-桜が咲く季節になった時、君に出会えて本当によかった 🌸
+{{page.foreword}}
 
 ---
 ### Sakura Avenue by the Meguro River
