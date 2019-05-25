@@ -3,7 +3,7 @@ layout: post
 title:  "First Time To Come My House"
 date:   2019-04-19
 categories: record
-foreword: 料理が上手ですね 🍚
+foreword: 🍚 料理が上手ですね。
 ---
 
 {{page.foreword}}

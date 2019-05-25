@@ -3,7 +3,7 @@ layout: post
 title:  "Yokohama, My Lucky City"
 date:   2019-04-07
 categories: record
-foreword: 今夜の月が綺麗ですね 🌛
+foreword: 🌛 今夜の月が綺麗ですね。
 ---
 
 {{page.foreword}}
@@ -23,8 +23,8 @@ Then search for **One Day Pass Ticket**.
 ---
 ### Sunset
 
-We saw the sunset, listening to music together, on the bridge.  
-At that time, I wanted to hug her 🎧
+We saw the sunset, listening to music 🎧 together, on the bridge.  
+At that time, I wanted to hug her 🌆
 
 {% include images.html img="/assets/img/yokohama9.jpg" title="Sunset" caption="Sunset" %}
 

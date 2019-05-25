@@ -5,13 +5,15 @@
     <description>A place where I record the lovely days with didi girl :)</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 May 2019 17:09:20 +0900</pubDate>
-    <lastBuildDate>Sat, 25 May 2019 17:09:20 +0900</lastBuildDate>
+    <pubDate>Sat, 25 May 2019 17:51:15 +0900</pubDate>
+    <lastBuildDate>Sat, 25 May 2019 17:51:15 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Happy Birthday, My Girl</title>
-        <description>
+        <description>&lt;p&gt;🎂 お誕生日おめでとうございます！&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
         <pubDate>Sat, 25 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/25/happy-birthday-my-girl.html</link>
@@ -24,7 +26,9 @@
     
       <item>
         <title>Didi Girl's Daily Life</title>
-        <description>
+        <description>&lt;p&gt;🍉 可愛い彼女の日常&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
         <pubDate>Sat, 18 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/18/daily-life-of-didi-girl.html</link>
@@ -50,7 +54,9 @@
     
       <item>
         <title>Golden Week #03</title>
-        <description>
+        <description>&lt;p&gt;🍉 ゴールデンウィークの日常三&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
         <pubDate>Wed, 01 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/01/golden-week-03.html</link>
@@ -63,7 +69,9 @@
     
       <item>
         <title>Golden Week #02</title>
-        <description>
+        <description>&lt;p&gt;🍉 ゴールデンウィークの日常二&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/29/golden-week-02.html</link>
@@ -76,7 +84,9 @@
     
       <item>
         <title>Golden Week #01</title>
-        <description>
+        <description>&lt;p&gt;🍉 ゴールデンウィークの日常一&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/27/golden-week-01.html</link>
@@ -89,7 +99,7 @@
     
       <item>
         <title>First Time To Come My House</title>
-        <description>&lt;p&gt;料理が上手ですね 🍚&lt;/p&gt;
+        <description>&lt;p&gt;🍚 料理が上手ですね。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;cleaning&quot;&gt;Cleaning&lt;/h3&gt;
@@ -201,7 +211,7 @@ Her friend said that I just look like &lt;em&gt;Jay Chou&lt;/em&gt;.&lt;/p&gt;
     
       <item>
         <title>Yokohama, My Lucky City</title>
-        <description>&lt;p&gt;今夜の月が綺麗ですね 🌛&lt;/p&gt;
+        <description>&lt;p&gt;🌛 今夜の月が綺麗ですね。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;preparation&quot;&gt;Preparation&lt;/h3&gt;
@@ -234,8 +244,8 @@ Her friend said that I just look like &lt;em&gt;Jay Chou&lt;/em&gt;.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;sunset&quot;&gt;Sunset&lt;/h3&gt;
 
-&lt;p&gt;We saw the sunset, listening to music together, on the bridge.&lt;br /&gt;
-At that time, I wanted to hug her 🎧&lt;/p&gt;
+&lt;p&gt;We saw the sunset, listening to music 🎧 together, on the bridge.&lt;br /&gt;
+At that time, I wanted to hug her 🌆&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
