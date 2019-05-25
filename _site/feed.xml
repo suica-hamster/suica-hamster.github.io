@@ -5,8 +5,8 @@
     <description>A place where I record the lovely days with didi girl :)</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 May 2019 17:51:15 +0900</pubDate>
-    <lastBuildDate>Sat, 25 May 2019 17:51:15 +0900</lastBuildDate>
+    <pubDate>Sat, 25 May 2019 23:54:28 +0900</pubDate>
+    <lastBuildDate>Sat, 25 May 2019 23:54:28 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -29,6 +29,16 @@
         <description>&lt;p&gt;🍉 可愛い彼女の日常&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/home7.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+    
+&lt;/div&gt;
 </description>
         <pubDate>Sat, 18 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/18/daily-life-of-didi-girl.html</link>
@@ -41,7 +51,49 @@
     
       <item>
         <title>Kamakura Trip</title>
-        <description>
+        <description>&lt;p&gt;💧 鎌倉の豪雨&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/kamakura0.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/kamakura1.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/kamakura4.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/kamakura3.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+    
+&lt;/div&gt;
 </description>
         <pubDate>Sat, 04 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/04/Kamakura.html</link>
@@ -54,9 +106,33 @@
     
       <item>
         <title>Golden Week #03</title>
-        <description>&lt;p&gt;🍉 ゴールデンウィークの日常三&lt;/p&gt;
+        <description>&lt;p&gt;ゴールデンウィークの日常三&lt;/p&gt;
 
 &lt;hr /&gt;
+&lt;p&gt;👋 Goodbye &lt;em&gt;Heisei Year&lt;/em&gt;, Welcome &lt;em&gt;Reiwa Year&lt;/em&gt;.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/reiwa.jpg&quot; alt=&quot;Please read this sentence in Japanese&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Please read this sentence in Japanese&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;GF’s magical camera 😬&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/home10.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+    
+&lt;/div&gt;
 </description>
         <pubDate>Wed, 01 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/01/golden-week-03.html</link>
@@ -69,9 +145,35 @@
     
       <item>
         <title>Golden Week #02</title>
-        <description>&lt;p&gt;🍉 ゴールデンウィークの日常二&lt;/p&gt;
+        <description>&lt;p&gt;ゴールデンウィークの日常二&lt;/p&gt;
 
 &lt;hr /&gt;
+&lt;h3 id=&quot;stay-at-home-whole-day&quot;&gt;Stay At Home Whole Day&lt;/h3&gt;
+
+&lt;p&gt;Finally, I became better at makeup than my GF 👏&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/home6.jpg&quot; alt=&quot;Perfect makeup&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Perfect makeup&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;We both love study 👏&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/home9.jpg&quot; alt=&quot;Two poeple with three display&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Two people with three display&lt;/p&gt;
+    
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/29/golden-week-02.html</link>
@@ -84,9 +186,77 @@
     
       <item>
         <title>Golden Week #01</title>
-        <description>&lt;p&gt;🍉 ゴールデンウィークの日常一&lt;/p&gt;
+        <description>&lt;p&gt;ゴールデンウィークの日常一&lt;/p&gt;
 
 &lt;hr /&gt;
+&lt;h3 id=&quot;before-leaving-home&quot;&gt;Before Leaving Home&lt;/h3&gt;
+
+&lt;p&gt;Perfect breakfast made by a perfect girl 🌈&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/home3.jpg&quot; alt=&quot;Breakfast with my favorite potato chips&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Breakfast with my favorite potato chips&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Buried the seed of learning makeup 💄&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/home5.jpg&quot; alt=&quot;&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;at-ueno-park&quot;&gt;At Ueno Park&lt;/h3&gt;
+
+&lt;p&gt;Took a walk in Ueno park after visiting &lt;strong&gt;Tokyo National Museum&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/ueno0.jpg&quot; alt=&quot;The photographer is so great&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;The photographer is so great&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/ueno2.jpg&quot; alt=&quot;Fallen cherry on the ground&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Fallen cherry on the ground&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;h3 id=&quot;come-back-home&quot;&gt;Come Back home&lt;/h3&gt;
+
+&lt;p&gt;We put on our &lt;strong&gt;lover’s clothes&lt;/strong&gt; of &lt;em&gt;Minions&lt;/em&gt; from UNIQLO.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/home8.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+    
+&lt;/div&gt;
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/27/golden-week-01.html</link>
