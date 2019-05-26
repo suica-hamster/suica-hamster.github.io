@@ -163,7 +163,7 @@ pre {
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 40px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 800px) {
     .site-nav {
       position: absolute;
       top: 9px;
@@ -242,7 +242,7 @@ pre {
   .footer-col-3 {
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
@@ -374,7 +374,7 @@ hr {
   .site-nav .page-link :hover {
     color: #C92944; }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .site-nav .menu-icon {
     width: 36px;
     height: 36px; } }
