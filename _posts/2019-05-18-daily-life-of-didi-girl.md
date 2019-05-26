@@ -9,5 +9,10 @@ foreword: 🍉 可愛い彼女の日常
 {{page.foreword}}
 
 ---
+Question:
+> Why this girl wears red pants with a green shirt ?
+
+Answer:
+> Because it's the color of watermelon 🍉
 
 {% include images.html img="/assets/img/home7.jpg" title="Lover's clothes" caption="Lover's clothes" %}

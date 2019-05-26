@@ -21,25 +21,25 @@ hr {
  	width: 100%;
  }
 .page-heading {
-    font-size: 3.2em;
-    padding-top: 50px;
+    font-size: 3.0em;
+    padding-top: 35px;
     color: white;
 }
 .subhead {
-    font-size: 1.3em;
+    font-size: 1.2em;
     color: darken(white, 00%);
 }
 
 
 // Logo
 .site-header {
-	min-height: 80px;
+	min-height: 50px;
 	border-top: 0;
-	padding-top:10px;
+	padding-top: 10px;
 }
 .site-title {
 	background-image: url(../assets/img/logo.png);
-  height: 70px;
+  height: 68px;
   background-repeat: no-repeat;
   background-size: 30%;
   color: transparent;

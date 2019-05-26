@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SUICA &amp; HAMSTER</title>
+    <title>Suica 💕 Hamster</title>
     <description>A place where I record the lovely days with didi girl :)</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 May 2019 23:54:28 +0900</pubDate>
-    <lastBuildDate>Sat, 25 May 2019 23:54:28 +0900</lastBuildDate>
+    <pubDate>Sun, 26 May 2019 13:04:10 +0900</pubDate>
+    <lastBuildDate>Sun, 26 May 2019 13:04:10 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Happy Birthday, My Girl</title>
-        <description>&lt;p&gt;🎂 お誕生日おめでとうございます！&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Sat, 25 May 2019 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/record/2019/05/25/happy-birthday-my-girl.html</link>
-        <guid isPermaLink="true">http://localhost:4000/record/2019/05/25/happy-birthday-my-girl.html</guid>
-        
-        
-        <category>record</category>
-        
-      </item>
     
       <item>
         <title>Didi Girl's Daily Life</title>
         <description>&lt;p&gt;🍉 可愛い彼女の日常&lt;/p&gt;
 
 &lt;hr /&gt;
+&lt;p&gt;Question:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Why this girl wears red pants with a green shirt ?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Answer:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Because it’s the color of watermelon 🍉&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
@@ -54,44 +48,54 @@
         <description>&lt;p&gt;💧 鎌倉の豪雨&lt;/p&gt;
 
 &lt;hr /&gt;
+&lt;h3 id=&quot;kamakura&quot;&gt;Kamakura&lt;/h3&gt;
 
-&lt;!-- _includes/image.html --&gt;
+&lt;p&gt;Temple view after raining 💚
+&lt;!-- _includes/image.html --&gt;&lt;/p&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/kamakura0.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+        &lt;img src=&quot;/assets/img/kamakura0.jpg&quot; alt=&quot;Small buddha statue&quot; /&gt;
     
     
-        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+        &lt;p class=&quot;image-caption&quot;&gt;Small buddha statue&lt;/p&gt;
     
 &lt;/div&gt;
 
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/kamakura1.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
-    
-&lt;/div&gt;
+&lt;hr /&gt;
 
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/kamakura4.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+        &lt;img src=&quot;/assets/img/kamakura1.jpg&quot; alt=&quot;Tree and pool&quot; /&gt;
     
     
-        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+        &lt;p class=&quot;image-caption&quot;&gt;Tree and pool&lt;/p&gt;
     
 &lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;10000 Watts Bulb&lt;/em&gt; from US 💡&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/kamakura3.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+        &lt;img src=&quot;/assets/img/kamakura4.jpg&quot; alt=&quot;Photo with 2B&quot; /&gt;
     
     
-        &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
+        &lt;p class=&quot;image-caption&quot;&gt;Photo with 2B&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Enoshima night scene with my girl 💗&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/kamakura3.jpg&quot; alt=&quot;Enoshima&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Enoshima&lt;/p&gt;
     
 &lt;/div&gt;
 </description>
@@ -114,7 +118,7 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/reiwa.jpg&quot; alt=&quot;Please read this sentence in Japanese&quot; /&gt;
+        &lt;img src=&quot;/assets/img/reiwa.png&quot; alt=&quot;Please read this sentence in Japanese&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Please read this sentence in Japanese&lt;/p&gt;
@@ -244,7 +248,7 @@
     
 &lt;/div&gt;
 
-&lt;h3 id=&quot;come-back-home&quot;&gt;Come Back home&lt;/h3&gt;
+&lt;h3 id=&quot;come-back-home&quot;&gt;Come Back Home&lt;/h3&gt;
 
 &lt;p&gt;We put on our &lt;strong&gt;lover’s clothes&lt;/strong&gt; of &lt;em&gt;Minions&lt;/em&gt; from UNIQLO.&lt;/p&gt;
 
@@ -414,8 +418,8 @@ Her friend said that I just look like &lt;em&gt;Jay Chou&lt;/em&gt;.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&quot;sunset&quot;&gt;Sunset&lt;/h3&gt;
 
-&lt;p&gt;We saw the sunset, listening to music 🎧 together, on the bridge.&lt;br /&gt;
-At that time, I wanted to hug her 🌆&lt;/p&gt;
+&lt;p&gt;We saw the sunset, listening to music 🎵 together, on the bridge.&lt;br /&gt;
+🌆 At that time, I wanted to hug her.&lt;/p&gt;
 
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
@@ -524,6 +528,49 @@ At that time, I wanted to hug her 🌆&lt;/p&gt;
         <pubDate>Wed, 03 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/03/childhood-photos.html</link>
         <guid isPermaLink="true">http://localhost:4000/record/2019/04/03/childhood-photos.html</guid>
+        
+        
+        <category>record</category>
+        
+      </item>
+    
+      <item>
+        <title>Sakura Matsuri of Tokyo</title>
+        <description>&lt;p&gt;🌸 桜が咲く季節になった時、君に出会えて本当によかった。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;sakura-avenue-by-the-meguro-river&quot;&gt;Sakura Avenue by the Meguro River&lt;/h3&gt;
+
+&lt;p&gt;About 800 cherry trees blossom along Megurogawa which streches for about 3.8 kilometers.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/sakura0.jpg&quot; alt=&quot;Sakura night viewing&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Sakura night viewing&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;tokyo-tower&quot;&gt;Tokyo Tower&lt;/h3&gt;
+
+&lt;p&gt;We saw the &lt;strong&gt;Tokyo Tower&lt;/strong&gt; on the way back.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/sakura1.jpg&quot; alt=&quot;Tokyo tower&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Tokyo tower&lt;/p&gt;
+    
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 29 Mar 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/record/2019/03/29/tokyo-sakura.html</link>
+        <guid isPermaLink="true">http://localhost:4000/record/2019/03/29/tokyo-sakura.html</guid>
         
         
         <category>record</category>

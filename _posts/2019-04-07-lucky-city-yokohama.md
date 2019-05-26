@@ -23,8 +23,8 @@ Then search for **One Day Pass Ticket**.
 ---
 ### Sunset
 
-We saw the sunset, listening to music 🎧 together, on the bridge.  
-At that time, I wanted to hug her 🌆
+We saw the sunset, listening to music 🎵 together, on the bridge.  
+🌆 At that time, I wanted to hug her.
 
 {% include images.html img="/assets/img/yokohama9.jpg" title="Sunset" caption="Sunset" %}
 
