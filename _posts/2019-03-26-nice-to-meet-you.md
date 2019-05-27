@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Meet: Nice to meet you"
+title:  "Nice to Meet You"
 date:   2019-03-26
 categories: record
 foreword: 愛は求めるものではなく与えるものです。

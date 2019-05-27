@@ -15,4 +15,4 @@ Question:
 Answer:
 > Because it's the color of watermelon 🍉
 
-{% include images.html img="/assets/img/home7.jpg" title="Lover's clothes" caption="Lover's clothes" %}
+{% include images.html img="/assets/img/home7.jpg" title="Watermelon girl" caption="Watermelon girl" %}
