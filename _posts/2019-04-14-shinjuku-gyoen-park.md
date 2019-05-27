@@ -11,7 +11,7 @@ foreword: なに笑ってるの。
 ---
 ### Spring Feeling
 
-I got the first kiss from hamster 🐹 in such a quite path。
+I got the first kiss from hamster 🐹 in such a quite path.
 
 {% include images.html img="/assets/img/shinjuku_garden2.jpg" title="Shinjuku Gyoen Park" caption="Shinjuku Gyoen Park" %}
 
