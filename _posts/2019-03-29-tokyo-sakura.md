@@ -18,6 +18,6 @@ About 800 cherry trees blossom along Megurogawa which streches for about 3.8 kil
 ---
 ### Tokyo Tower
 
-We saw the **Tokyo Tower** on the way back.
+We saw the **Tokyo Tower** on the way back 😉
 
 {% include images.html img="/assets/img/sakura1.jpg" title="Tokyo tower" caption="Tokyo tower" %}

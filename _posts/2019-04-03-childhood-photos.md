@@ -5,7 +5,7 @@ date:   2019-04-03
 categories: record
 foreword: 子供の頃すごく可愛かったですね...
 ---
- 
+
 {{page.foreword}}  
 もちろん、現在は美人になりました 😉
 
@@ -18,7 +18,7 @@ foreword: 子供の頃すごく可愛かったですね...
 {% include images.html img="/assets/img/child2.jpg" title="可愛い二号" caption="可愛い二号" %}
 ---
 
-Actually, when she showed me lots of her childhood photos? I was wondering that does it mean I have a chance 😳
+Actually, when she showed me lots of her childhood photos? I was wondering that does it mean I have a chance, lol 😳
 
 ---
 

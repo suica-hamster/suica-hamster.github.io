@@ -17,7 +17,7 @@ I got the first kiss from hamster 🐹 in such a quite path.
 
 ---
 We took the first photo of us.  
-Her friend said that I just look like *Jay Chou*.
+Her friend said that I just look like *Jay Chou* 😎
 
 {% include images.html img="/assets/img/shinjuku_garden0.jpg" title="First photo of us" caption="First photo of us" %}
 

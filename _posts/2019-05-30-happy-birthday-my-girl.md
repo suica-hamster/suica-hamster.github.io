@@ -16,7 +16,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 
 {% include images.html img="/assets/img/dog.gif" title="Me" caption="Me" %}
 
-This website records the time we're together. And it will continue to be updated in the future.
+This website records the time we're together. And it will continue to be updated in the future. The recommended posts reading order is from bottom to top.
 
 ---
 ### Gifts
