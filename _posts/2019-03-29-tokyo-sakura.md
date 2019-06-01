@@ -4,6 +4,7 @@ title:  "Sakura Matsuri of Tokyo"
 date:   2019-03-29
 categories: record
 foreword: 🌸 桜が咲く季節になった時、君に出会えて本当によかった。
+author: Suica
 ---
 
 {{page.foreword}}

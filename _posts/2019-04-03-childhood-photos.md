@@ -4,6 +4,7 @@ title:  "Childhood Photos"
 date:   2019-04-03
 categories: record
 foreword: 子供の頃すごく可愛かったですね...
+author: Suica
 ---
 
 {{page.foreword}}  

@@ -4,6 +4,7 @@ title:  "Dating in Gyoen Park"
 date:   2019-04-14
 categories: record
 foreword: なに笑ってるの。
+author: Suica
 ---
 
 {{page.foreword}}

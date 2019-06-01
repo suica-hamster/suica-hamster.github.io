@@ -4,6 +4,7 @@ title:  "Yokohama, My Lucky City"
 date:   2019-04-07
 categories: record
 foreword: 🌛 今夜の月が綺麗ですね。
+author: Suica
 ---
 
 {{page.foreword}}

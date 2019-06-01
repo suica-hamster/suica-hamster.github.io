@@ -4,6 +4,7 @@ title:  "First Time to Come My Home"
 date:   2019-04-19
 categories: record
 foreword: 🍚 料理が上手ですね。
+author: Suica
 ---
 
 {{page.foreword}}
