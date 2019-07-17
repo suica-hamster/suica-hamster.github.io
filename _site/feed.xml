@@ -5,9 +5,97 @@
     <description>A place where I record the lovely days with didi girl :)</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Jun 2019 13:51:24 +0900</pubDate>
-    <lastBuildDate>Sat, 01 Jun 2019 13:51:24 +0900</lastBuildDate>
+    <pubDate>Wed, 17 Jul 2019 21:28:25 +0900</pubDate>
+    <lastBuildDate>Wed, 17 Jul 2019 21:28:25 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>100 Days!</title>
+        <description>&lt;p&gt;💕付き合って100日の记念日~&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;100-days-celebration&quot;&gt;100 Days Celebration&lt;/h3&gt;
+
+&lt;p&gt;Long time no update! We are too busy with our study. スイカ君 went on a “タピオカ” business trip in Taiwan😍.&lt;/p&gt;
+
+&lt;p&gt;This is our photo chatting history on those days: (See, this guy’s trip was occupied by nothing but robots and pearl milk tea, maybe a little part of snacks in night market, motorcycle and golf as well:D)&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/100days0.jpg&quot; height=&quot;80%&quot; width=&quot;80%&quot; alt=&quot;Photo chat history&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Photo chat history&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;As I am staying in the city with expensive yet unsavory milk tea, my face was 👇&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/100days1.jpg&quot; height=&quot;40%&quot; width=&quot;40%&quot; alt=&quot;Hamster's face&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Hamster's face&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;However, he brought back many snacks for me. I love the pineapple cake so much! 😆&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/100days2.jpg&quot; height=&quot;70%&quot; width=&quot;70%&quot; alt=&quot;Taiwan's snacks&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Taiwan's snacks&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Btw, スイカ君 had a new haircut in Taiwan. At first, I prefer him to have long hair with natural curls, so after hearing his hair had been cut much shorter, I felt a bit depressed in the phone. But when he came to me in person, I am so satisfied with the new look. Perhaps this is so-called “beauty lies in the lover’s eyes”. Anyway, SUICA thought it should owe to the fact that he is a イケメン himself.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/100days3.jpg&quot; height=&quot;40%&quot; width=&quot;40%&quot; alt=&quot;😏&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;😏&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Yesterday was our one-hundred-day anniversary. I wrote a long letter for SUICA. I am sure he hasn’t read it at the moment because I am too shy to let him read right in front of me. We had Sushi for dinner, a nice treat after my long studying day.
+p.s. Sorry for my piggy snoring and occupying the quilt. (・ω・)zzZZ&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/100days4.jpg&quot; height=&quot;70%&quot; width=&quot;70%&quot; alt=&quot;Living snippet&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Living snippet&lt;/p&gt;
+    
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 17 Jul 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/record/2019/07/17/100-Days.html</link>
+        <guid isPermaLink="true">http://localhost:4000/record/2019/07/17/100-Days.html</guid>
+        
+        
+        <category>record</category>
+        
+      </item>
     
       <item>
         <title>Happy Children's Day~</title>
@@ -21,7 +109,7 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/childday0.jpg&quot; alt=&quot;fantastic fruits!&quot; /&gt;
+        &lt;img src=&quot;/assets/img/childday0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;fantastic fruits!&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;fantastic fruits!&lt;/p&gt;
@@ -36,7 +124,7 @@ Look at this photo, how cute!&lt;/p&gt;
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/childday1.jpg&quot; alt=&quot;Gathering dinner at Sushi restaurant&quot; /&gt;
+        &lt;img src=&quot;/assets/img/childday1.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Gathering dinner at Sushi restaurant&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Gathering dinner at Sushi restaurant&lt;/p&gt;
@@ -53,7 +141,7 @@ Just joking, Suica’s stomach is far more smaller than 🐹.&lt;/p&gt;
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/childday2.jpg&quot; alt=&quot;I am a super cook!&quot; /&gt;
+        &lt;img src=&quot;/assets/img/childday2.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;I am a super cook!&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;I am a super cook!&lt;/p&gt;
@@ -67,12 +155,13 @@ Just joking, Suica’s stomach is far more smaller than 🐹.&lt;/p&gt;
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/childday3.jpg&quot; alt=&quot;Golden Motto&quot; /&gt;
+        &lt;img src=&quot;/assets/img/childday3.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Golden Motto&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Golden Motto&lt;/p&gt;
     
 &lt;/div&gt;
+
 </description>
         <pubDate>Sat, 01 Jun 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/06/01/happy-children-day.html</link>
@@ -96,7 +185,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/dog.gif&quot; alt=&quot;Me&quot; /&gt;
+        &lt;img src=&quot;/assets/img/dog.gif&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Me&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Me&lt;/p&gt;
@@ -113,7 +202,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/cup.png&quot; alt=&quot;Lover's mug&quot; /&gt;
+        &lt;img src=&quot;/assets/img/cup.png&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Lover's mug&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Lover's mug&lt;/p&gt;
@@ -125,7 +214,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/calligraphy0.jpg&quot; alt=&quot;Qing Yun Ge&quot; /&gt;
+        &lt;img src=&quot;/assets/img/calligraphy0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Qing Yun Ge&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Qing Yun Ge&lt;/p&gt;
@@ -137,7 +226,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/calligraphy1.jpg&quot; alt=&quot;Qing Yun Ge&quot; /&gt;
+        &lt;img src=&quot;/assets/img/calligraphy1.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Qing Yun Ge&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Qing Yun Ge&lt;/p&gt;
@@ -175,12 +264,13 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home7.jpg&quot; alt=&quot;Watermelon girl&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home7.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Watermelon girl&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Watermelon girl&lt;/p&gt;
     
 &lt;/div&gt;
+
 </description>
         <pubDate>Sat, 18 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/18/daily-life-of-didi-girl.html</link>
@@ -202,7 +292,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;&lt;/p&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/kamakura0.jpg&quot; alt=&quot;Small buddha statue&quot; /&gt;
+        &lt;img src=&quot;/assets/img/kamakura0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Small buddha statue&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Small buddha statue&lt;/p&gt;
@@ -214,7 +304,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/kamakura1.jpg&quot; alt=&quot;Tree and pool&quot; /&gt;
+        &lt;img src=&quot;/assets/img/kamakura1.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Tree and pool&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Tree and pool&lt;/p&gt;
@@ -227,7 +317,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/kamakura4.jpg&quot; alt=&quot;Photo with 2B&quot; /&gt;
+        &lt;img src=&quot;/assets/img/kamakura4.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Photo with 2B&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Photo with 2B&lt;/p&gt;
@@ -240,12 +330,13 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/kamakura3.jpg&quot; alt=&quot;Enoshima&quot; /&gt;
+        &lt;img src=&quot;/assets/img/kamakura3.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Enoshima&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Enoshima&lt;/p&gt;
     
 &lt;/div&gt;
+
 </description>
         <pubDate>Sat, 04 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/04/Kamakura.html</link>
@@ -266,7 +357,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/reiwa.png&quot; alt=&quot;Please read this sentence in Japanese&quot; /&gt;
+        &lt;img src=&quot;/assets/img/reiwa.png&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Please read this sentence in Japanese&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Please read this sentence in Japanese&lt;/p&gt;
@@ -279,12 +370,13 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home10.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home10.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Lover's clothes&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
     
 &lt;/div&gt;
+
 </description>
         <pubDate>Wed, 01 May 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/05/01/golden-week-03.html</link>
@@ -307,7 +399,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home6.jpg&quot; alt=&quot;Perfect makeup&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home6.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Perfect makeup&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Perfect makeup&lt;/p&gt;
@@ -320,12 +412,13 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home9.jpg&quot; alt=&quot;Two poeple with three display&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home9.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Two poeple with three display&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Two people with three display&lt;/p&gt;
     
 &lt;/div&gt;
+
 </description>
         <pubDate>Mon, 29 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/29/golden-week-02.html</link>
@@ -348,7 +441,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home3.jpg&quot; alt=&quot;Breakfast with my favorite potato chips&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home3.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Breakfast with my favorite potato chips&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Breakfast with my favorite potato chips&lt;/p&gt;
@@ -362,7 +455,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home5.jpg&quot; alt=&quot;&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home5.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
@@ -377,7 +470,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/ueno0.jpg&quot; alt=&quot;The photographer is so great&quot; /&gt;
+        &lt;img src=&quot;/assets/img/ueno0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;The photographer is so great&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;The photographer is so great&lt;/p&gt;
@@ -389,7 +482,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/ueno2.jpg&quot; alt=&quot;Fallen cherry on the ground&quot; /&gt;
+        &lt;img src=&quot;/assets/img/ueno2.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Fallen cherry on the ground&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Fallen cherry on the ground&lt;/p&gt;
@@ -403,12 +496,13 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home8.jpg&quot; alt=&quot;Lover's clothes&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home8.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Lover's clothes&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Lover's clothes&lt;/p&gt;
     
 &lt;/div&gt;
+
 </description>
         <pubDate>Sat, 27 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/27/golden-week-01.html</link>
@@ -431,7 +525,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home0.jpg&quot; alt=&quot;Blue sky of cleaning time&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Blue sky of cleaning time&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Blue sky of cleaning time&lt;/p&gt;
@@ -446,7 +540,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home1.jpg&quot; alt=&quot;Back view of cooking&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home1.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Back view of cooking&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Back view of cooking&lt;/p&gt;
@@ -460,12 +554,13 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/home2.jpg&quot; alt=&quot;Delicious dish&quot; /&gt;
+        &lt;img src=&quot;/assets/img/home2.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Delicious dish&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Delicious dish&lt;/p&gt;
     
 &lt;/div&gt;
+
 </description>
         <pubDate>Fri, 19 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/19/come-to-my-house.html</link>
@@ -488,7 +583,7 @@ At the moment I finished this website, I took a sip of milk, and my expression w
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/shinjuku_garden2.jpg&quot; alt=&quot;Shinjuku Gyoen Park&quot; /&gt;
+        &lt;img src=&quot;/assets/img/shinjuku_garden2.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Shinjuku Gyoen Park&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Shinjuku Gyoen Park&lt;/p&gt;
@@ -502,7 +597,7 @@ Her friend said that I just look like &lt;em&gt;Jay Chou&lt;/em&gt; 😎&lt;/p&g
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/shinjuku_garden0.jpg&quot; alt=&quot;First photo of us&quot; /&gt;
+        &lt;img src=&quot;/assets/img/shinjuku_garden0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;First photo of us&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;First photo of us&lt;/p&gt;
@@ -515,102 +610,17 @@ Her friend said that I just look like &lt;em&gt;Jay Chou&lt;/em&gt; 😎&lt;/p&g
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/shinjuku_garden1.jpg&quot; alt=&quot;side face of my goddess&quot; /&gt;
+        &lt;img src=&quot;/assets/img/shinjuku_garden1.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;side face of my goddess&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;side face of my goddess&lt;/p&gt;
     
 &lt;/div&gt;
+
 </description>
         <pubDate>Sun, 14 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/14/shinjuku-gyoen-park.html</link>
         <guid isPermaLink="true">http://localhost:4000/record/2019/04/14/shinjuku-gyoen-park.html</guid>
-        
-        
-        <category>record</category>
-        
-      </item>
-    
-      <item>
-        <title>Yokohama, My Lucky City</title>
-        <description>&lt;p&gt;🌛 今夜の月が綺麗ですね。&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h3 id=&quot;preparation&quot;&gt;Preparation&lt;/h3&gt;
-
-&lt;p&gt;My first time to do a trip plan. Anyway, analyze the map first.&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/yokohama10.png&quot; alt=&quot;Yokohama's Map&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;Yokohama's Map&lt;/p&gt;
-    
-&lt;/div&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Then search for &lt;strong&gt;One Day Pass Ticket&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/yokohama4.png&quot; alt=&quot;みなとみらいチケット&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;みなとみらいチケット&lt;/p&gt;
-    
-&lt;/div&gt;
-
-&lt;hr /&gt;
-&lt;h3 id=&quot;sunset&quot;&gt;Sunset&lt;/h3&gt;
-
-&lt;p&gt;We saw the sunset, listening to music 🎵 together, on the bridge.&lt;br /&gt;
-🌆 At that time, I wanted to hug her.&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/yokohama9.jpg&quot; alt=&quot;Sunset&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;Sunset&lt;/p&gt;
-    
-&lt;/div&gt;
-
-&lt;hr /&gt;
-&lt;h3 id=&quot;ferris-wheel&quot;&gt;Ferris Wheel&lt;/h3&gt;
-
-&lt;p&gt;When we on the &lt;strong&gt;Ferris Wheel&lt;/strong&gt;, I was too nervous to tell her that I have fallen in love with her 😅&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/yokohama0.jpg&quot; alt=&quot;The viewing from top of Ferris Wheel&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;The viewing from top of Ferris Wheel&lt;/p&gt;
-    
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;However, thanks to 9 o’clock for giving me inspiration, I finally did it 💕&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/yokohama6.jpg&quot; alt=&quot;9 o'clock&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;9 o'clock&lt;/p&gt;
-    
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 07 Apr 2019 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/record/2019/04/07/lucky-city-yokohama.html</link>
-        <guid isPermaLink="true">http://localhost:4000/record/2019/04/07/lucky-city-yokohama.html</guid>
         
         
         <category>record</category>
