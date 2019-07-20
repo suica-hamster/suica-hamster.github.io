@@ -20,3 +20,5 @@ Please enjoy the firework show~
 {% include images.html img="/assets/img/hanabi2.gif" title="Scene 1" caption="Scene 3" %}
 
 We have a cool summer 🍻!
+
+Suica hopes their future will be as brilliant as these fireworks 😊~
