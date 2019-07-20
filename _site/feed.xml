@@ -5,9 +5,58 @@
     <description>A place where I record the lovely days with didi girl :)</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jul 2019 21:28:25 +0900</pubDate>
-    <lastBuildDate>Wed, 17 Jul 2019 21:28:25 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Jul 2019 22:40:50 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jul 2019 22:40:50 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hanabi Festival!!</title>
+        <description>&lt;p&gt;🌈🎎第41回 足立の花火&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;firework-festival&quot;&gt;Firework Festival&lt;/h3&gt;
+&lt;p&gt;Please enjoy the firework show~&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/hanabi0.gif&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Scene 1&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Scene 1&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/hanabi1.gif&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Scene 1&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Scene 2&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/hanabi2.gif&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Scene 1&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Scene 3&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;We have a cool summer 🍻!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Jul 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/record/2019/07/20/firework-display.html</link>
+        <guid isPermaLink="true">http://localhost:4000/record/2019/07/20/firework-display.html</guid>
+        
+        
+        <category>record</category>
+        
+      </item>
     
       <item>
         <title>100 Days!</title>
@@ -565,62 +614,6 @@ At the moment I finished this website, I took a sip of milk, and my expression w
         <pubDate>Fri, 19 Apr 2019 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/record/2019/04/19/come-to-my-house.html</link>
         <guid isPermaLink="true">http://localhost:4000/record/2019/04/19/come-to-my-house.html</guid>
-        
-        
-        <category>record</category>
-        
-      </item>
-    
-      <item>
-        <title>Dating in Gyoen Park</title>
-        <description>&lt;p&gt;なに笑ってるの。&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h3 id=&quot;spring-feeling&quot;&gt;Spring Feeling&lt;/h3&gt;
-
-&lt;p&gt;I got the first kiss from hamster 🐹 in such a quite path.&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/shinjuku_garden2.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Shinjuku Gyoen Park&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;Shinjuku Gyoen Park&lt;/p&gt;
-    
-&lt;/div&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;We took the first photo of us.&lt;br /&gt;
-Her friend said that I just look like &lt;em&gt;Jay Chou&lt;/em&gt; 😎&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/shinjuku_garden0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;First photo of us&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;First photo of us&lt;/p&gt;
-    
-&lt;/div&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;It’s this flower’s great honor to embedded in her hair.&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/shinjuku_garden1.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;side face of my goddess&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;side face of my goddess&lt;/p&gt;
-    
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 14 Apr 2019 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/record/2019/04/14/shinjuku-gyoen-park.html</link>
-        <guid isPermaLink="true">http://localhost:4000/record/2019/04/14/shinjuku-gyoen-park.html</guid>
         
         
         <category>record</category>
