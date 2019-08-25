@@ -5,8 +5,8 @@
     <description>A place where I record the lovely days with didi girl :)</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Aug 2019 15:09:30 +0900</pubDate>
-    <lastBuildDate>Sun, 25 Aug 2019 15:09:30 +0900</lastBuildDate>
+    <pubDate>Sun, 25 Aug 2019 15:16:39 +0900</pubDate>
+    <lastBuildDate>Sun, 25 Aug 2019 15:16:39 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -100,6 +100,16 @@
     
 &lt;/div&gt;
 
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/assets/img/hanabi5.gif&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Scene 6&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Scene 6&lt;/p&gt;
+    
+&lt;/div&gt;
+
 &lt;p&gt;This is summer! My wonderful summer memory!&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Aug 2019 00:00:00 +0900</pubDate>
@@ -118,16 +128,6 @@
 &lt;hr /&gt;
 &lt;h3 id=&quot;firework-festival&quot;&gt;Firework Festival&lt;/h3&gt;
 &lt;p&gt;Please enjoy the firework show~&lt;/p&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-        &lt;img src=&quot;/assets/img/Matsuri0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Cener Stage&quot; /&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;Cener Stage&lt;/p&gt;
-    
-&lt;/div&gt;
 
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;

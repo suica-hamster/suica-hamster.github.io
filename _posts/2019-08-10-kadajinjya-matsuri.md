@@ -37,4 +37,6 @@ After the matsuri, Wan Qiuer came up with the idea of playing hand-held firework
 
 {% include images.html img="/assets/img/Matsuri7.jpg" title="Hanabi Show: OK" caption="Hanabi Show: OK" %}
 
+{% include images.html img="/assets/img/hanabi5.gif" title="Scene 6" caption="Scene 6" %}
+
 This is summer! My wonderful summer memory!
