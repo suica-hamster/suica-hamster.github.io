@@ -5,8 +5,8 @@
     <description>A place where I record the lovely days with didi girl :)</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Aug 2019 14:49:29 +0900</pubDate>
-    <lastBuildDate>Sun, 25 Aug 2019 14:49:29 +0900</lastBuildDate>
+    <pubDate>Sun, 25 Aug 2019 15:01:02 +0900</pubDate>
+    <lastBuildDate>Sun, 25 Aug 2019 15:01:02 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -21,7 +21,7 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/Matsuri0.jpg&quot; height=&quot;100%&quot; width=&quot;100%&quot; alt=&quot;Cener Stage&quot; /&gt;
+        &lt;img src=&quot;/assets/img/Matsuri0.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Cener Stage&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Cener Stage&lt;/p&gt;
@@ -35,7 +35,7 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/Matsuri1.jpg&quot; height=&quot;20%&quot; width=&quot;100%&quot; alt=&quot;Shrine&quot; /&gt;
+        &lt;img src=&quot;/assets/img/Matsuri1.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Shrine&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Shrine&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/Matsuri3.jpg&quot; height=&quot;100%&quot; width=&quot;50%&quot; alt=&quot;かき氷&quot; /&gt;
+        &lt;img src=&quot;/assets/img/Matsuri3.jpg&quot; height=&quot;50%&quot; width=&quot;50%&quot; alt=&quot;かき氷&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;かき氷&lt;/p&gt;
@@ -63,7 +63,7 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/Matsuri4.jpg&quot; height=&quot;100%&quot; width=&quot;100%&quot; alt=&quot;Hanabi Show: face&quot; /&gt;
+        &lt;img src=&quot;/assets/img/Matsuri4.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Hanabi Show: face&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Hanabi Show: face&lt;/p&gt;
@@ -73,7 +73,7 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/Matsuri5.png&quot; height=&quot;100%&quot; width=&quot;100%&quot; alt=&quot;Hanabi Show: I 💙 U&quot; /&gt;
+        &lt;img src=&quot;/assets/img/Matsuri5.png&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Hanabi Show: I 💙 U&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Hanabi Show: I 💙 U&lt;/p&gt;
@@ -93,7 +93,7 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img src=&quot;/assets/img/Matsuri7.jpg&quot; height=&quot;100%&quot; width=&quot;100%&quot; alt=&quot;Hanabi Show: OK&quot; /&gt;
+        &lt;img src=&quot;/assets/img/Matsuri7.jpg&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;Hanabi Show: OK&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;Hanabi Show: OK&lt;/p&gt;
