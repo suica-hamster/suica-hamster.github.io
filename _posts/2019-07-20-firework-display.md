@@ -13,6 +13,8 @@ author: Suica & Hamster
 ### Firework Festival
 Please enjoy the firework show~
 
+{% include images.html img="/assets/img/Matsuri0.jpg" title="Cener Stage" caption="Cener Stage" %}
+
 {% include images.html img="/assets/img/hanabi0.gif" title="Scene 1" caption="Scene 1" %}
 
 {% include images.html img="/assets/img/hanabi1.gif" title="Scene 2" caption="Scene 2" %}
